@@ -1,2 +1,2 @@
 # MidtermProjects
-portfolio and bootstrap
+portfolio 
